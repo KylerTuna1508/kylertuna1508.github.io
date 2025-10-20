@@ -7,8 +7,24 @@
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Thư ơi anh có điều muốn nói. Bé bấm yes nha =))</h1>
+    <!-- Video Introduction Screen -->
+    <div id="videoScreen" class="video-screen">
+        <h1>💖 Dành tặng em yêu 💖</h1>
+        <button id="startButton" class="start-button">Bấm vào đây nhé! ❤️</button>
+        <div id="videoContainer" class="video-container" style="display: none;">
+            <video id="waguriVideo" width="80%" controls>
+                <source src="./images/waguri.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <div id="videoMessage" class="video-message" style="display: none;">
+                <h2>🌸 Chúc em 20/10 thật vui vẻ 🌸</h2>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content (Hidden Initially) -->
+    <div id="mainContent" class="container" style="display: none;">
+        <h1>Thư ơi anh có điều muốn nói. Bấm yes nha =))</h1>
         <img src="./images/crystal-amaru.gif" alt="Motivational GIF" class="motivational-gif">
         <img src="./images/bubu-dudu-bubu-dudu-love.gif" alt="Motivational GIF" class="motivational-gif">
         <div class="button-container">
