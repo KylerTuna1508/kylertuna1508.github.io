@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         {
             number: 2,
-            content: "Bé ơi hôm nay là 20/10 đó nha, anh chúc em có được nhiều niềm vui nè, dễ thương và luôn vui vẻ nhé!"
+            content: "Bé ơi hôm nay là 20/10 đó nha, anh chúc em có được nhiều niềm vui nè, dễ thương, thuận lơi trong mọi việc và luôn vui vẻ nhé!"
         },
         {
             number: 3,
