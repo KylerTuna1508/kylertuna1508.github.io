@@ -42,11 +42,11 @@ document.addEventListener("DOMContentLoaded", function() {
     const letters = [
         {
             number: 1,
-            content: "Đây là món quà mà anh đã chuẩn bị cho em trong hôm nay nè :3. Hy vọng em sẽ thích nó! ❤️"
+            content: "Đây là món quà mà anh chuẩn bị cho em trong hôm nay nè :3. Anh hy vọng em sẽ thích nó! ❤️"
         },
         {
             number: 2,
-            content: "Bé ơi hôm nay là 20/10 đó nha, anh chúc em có được nhiều niềm vui vè, dễ thương và luôn vui vẻ nhé!"
+            content: "Bé ơi hôm nay là 20/10 đó nha, anh chúc em có được nhiều niềm vui nè, dễ thương và luôn vui vẻ nhé!"
         },
         {
             number: 3,
